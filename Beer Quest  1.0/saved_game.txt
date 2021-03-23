@@ -1,0 +1,85 @@
+Josip
+75
+100
+1
+6
+2
+Salary Cheque
+Mobile Phone
+None
+None
+None
+1
+Town Street
+None
+1
+Wife
+30
+15
+None
+2
+Player's House
+Town Square
+3
+Beer
+Box of Chocolates
+Bouquet of Roses
+None
+None
+1
+Town Square
+2
+Staple Gun
+Christmas Bonus
+1
+Boss
+30
+10
+None
+1
+Town Square
+1
+Beer
+1
+Annoying Drunk
+30
+10
+2
+Ambrozije
+Luka
+1
+Town Square
+None
+1
+Annoying Drunk
+30
+10
+1
+Ana
+5
+Town Street
+Company Office
+Konzum
+Bar
+Town Suburb
+None
+1
+Mother In Law
+15
+15
+None
+1
+Town Suburb
+None
+None
+None
+3
+Town Square
+Mother in Law House
+Pown
+None
+None
+None
+1
+Town Suburb
+Bar
